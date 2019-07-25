@@ -1,0 +1,20 @@
+C:\Users\italo\source\repos\chkipport\chkipport\bin\Debug\ips.txt
+C:\Users\italo\source\repos\chkipport\chkipport\bin\Debug\chkipport.exe.config
+C:\Users\italo\source\repos\chkipport\chkipport\bin\Debug\chkipport.exe
+C:\Users\italo\source\repos\chkipport\chkipport\bin\Debug\chkipport.pdb
+C:\Users\italo\source\repos\chkipport\chkipport\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\italo\source\repos\chkipport\chkipport\obj\Debug\chkipport.csprojAssemblyReference.cache
+C:\Users\italo\source\repos\chkipport\chkipport\obj\Debug\chkipport.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\chkipport\chkipport\obj\Debug\chkipport.csproj.CopyComplete
+C:\Users\italo\source\repos\chkipport\chkipport\obj\Debug\chkipport.exe
+C:\Users\italo\source\repos\chkipport\chkipport\obj\Debug\chkipport.pdb
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\bin\Debug\ips.txt
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\bin\Debug\chkipport.exe.config
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\bin\Debug\chkipport.exe
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\bin\Debug\chkipport.pdb
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\bin\Debug\System.Net.IPNetwork.dll
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\obj\Debug\chkipport.csprojAssemblyReference.cache
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\obj\Debug\chkipport.csproj.CoreCompileInputs.cache
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\obj\Debug\chkipport.csproj.CopyComplete
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\obj\Debug\chkipport.exe
+C:\Users\italo\source\repos\chkipport - Copia\chkipport\obj\Debug\chkipport.pdb
